@@ -24,7 +24,7 @@ The purpose of this project is to predict tomorrow's temperature for Richmond, V
 * Data Wrangling
 * Machine Learning
 * Ridge Regression
-* Preditive Modeling
+* Predictive Modeling
 * Data Visualization
 
 ## Libraries
