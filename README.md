@@ -1,7 +1,7 @@
 ![richmond va skyline](https://github.com/tabburn/richmond-va-weather-forecast/blob/main/resources/richmond_hero.jpg)
 
 # Richmond, Virginia Weather Forecast Using Ridge Regression
-This analysis uses a unique [dataset](https://github.com/tabburn/richmond-va-weather-forecast/blob/main/resources/weather.csv) that was acquired from The National Centers for Environmental Information (NOAA) [database](https://www.ncdc.noaa.gov/cdo-web/search). I did my analysis for Richmond, Virginia near where I live, but you can pull a different dataset from the NOAA database for a local area near you.
+This analysis uses a unique [dataset](https://github.com/tabburn/richmond-va-weather-forecast/blob/main/resources/weather.csv) that was acquired from the National Oceanic and Atmospheric Administration (NOAA) [database](https://www.ncdc.noaa.gov/cdo-web/search). I did my analysis for Richmond, Virginia near where I live, but you can pull a different dataset from the NOAA database for a local area near you.
 
 ## Table of Contents
 [Title](#Richmond,-Virginia-Weather-Forecast-Using-Ridge-Regression)\
